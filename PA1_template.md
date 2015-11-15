@@ -160,7 +160,6 @@ paste("medians difference:", act.imp.median-act.median)
 ## [1] "medians difference: 1.1886792452824"
 ```
 
-
 #### The *mean* and *median* total number of steps taken per day remains the same after imputing the dataset. They are 1.0766189\times 10^{4} and 1.0766189\times 10^{4} respectively. 
 #### On the otherhand, the count of the daily totals is different. Because the NA data was filled with the *daily means*, the count of the mean total is higher for the imputed dataset as seen in the graph.
 
